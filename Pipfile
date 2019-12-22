@@ -8,8 +8,11 @@ verify_ssl = true
 [packages]
 numpy = "*"
 pandas = "*"
-matplotlip = "*"
+matplotlib = "*"
 scipy = "*"
+ipykernel = "*"
+bokeh = "*"
+
 
 [requires]
 python_version = "3.7"
